@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/REACT-Portfolio/static/css/main.85f21aef.css",
+    "main.js": "/REACT-Portfolio/static/js/main.dd043331.js",
+    "static/media/pourfolio.png": "/REACT-Portfolio/static/media/pourfolio.040b64596d34f5c42e87.png",
+    "static/media/pet-locators.png": "/REACT-Portfolio/static/media/pet-locators.0fbd53dd60d7c289d24e.png",
+    "static/media/Leafy-locators.png": "/REACT-Portfolio/static/media/Leafy-locators.7bbed2c8f6061ba74d5a.png",
+    "static/media/Portfolio-screenshot.png": "/REACT-Portfolio/static/media/Portfolio-screenshot.d499f4459d288d7abb9f.png",
+    "static/media/portfolio-pic.jpg": "/REACT-Portfolio/static/media/portfolio-pic.d999d4119510aff4b0f7.jpg",
+    "static/media/planner-screenshot.png": "/REACT-Portfolio/static/media/planner-screenshot.19967132fadb767429fd.png",
+    "static/media/javascript-quiz-screenshot.png": "/REACT-Portfolio/static/media/javascript-quiz-screenshot.0bffc6f79a290dec7d7d.png",
+    "static/media/Jessica_Yun_Resume2024.pdf": "/REACT-Portfolio/static/media/Jessica_Yun_Resume2024.9b12cc70a69650456ff1.pdf",
+    "static/media/resume.pdf": "/REACT-Portfolio/static/media/resume.b0309fafdce059d65718.pdf",
+    "static/media/Note-taker.png": "/REACT-Portfolio/static/media/Note-taker.b246011ff4236bcbf8e1.png",
+    "static/media/Text-Editor.png": "/REACT-Portfolio/static/media/Text-Editor.180d4a2b8c3c9fad3653.png",
+    "static/media/JY.png": "/REACT-Portfolio/static/media/JY.c3bc35d28fb0ec3e64eb.png",
+    "index.html": "/REACT-Portfolio/index.html",
+    "main.85f21aef.css.map": "/REACT-Portfolio/static/css/main.85f21aef.css.map",
+    "main.dd043331.js.map": "/REACT-Portfolio/static/js/main.dd043331.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85f21aef.css",
+    "static/js/main.dd043331.js"
+  ]
+}
