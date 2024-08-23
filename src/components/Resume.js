@@ -1,4 +1,4 @@
-import resume from "../Assets/Jessica_Yun_Resume2024.pdf"
+import resume from "../Assets/Jessica_Yun_Resume.pdf"
 export default function Resume() {
     return(
     <div className="w-100" class="pdf">
